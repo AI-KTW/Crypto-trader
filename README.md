@@ -1,2 +1,2 @@
-# Crypto-trader
+# Cryptotrader
 My Binance AutoTrader
